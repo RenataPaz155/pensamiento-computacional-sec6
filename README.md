@@ -10,6 +10,6 @@ para ejercicios
 -es
 -una lista
 
-una imagen de ruta:
+una imagen de ruta: 
 ![imagen](foto/cerezos.jpg)
 

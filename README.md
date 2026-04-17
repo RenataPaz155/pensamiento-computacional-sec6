@@ -11,5 +11,5 @@ para ejercicios
 -una lista
 
 una imagen de ruta:
-![imagen](foto/
+![imagen](foto/cerezos.jpg)
 
